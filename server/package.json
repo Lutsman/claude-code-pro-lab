@@ -6,7 +6,6 @@
     "dev": "node --watch src/index.ts",
     "start": "node src/index.ts",
     "test": "vitest run",
-    "test:watch": "vitest",
     "typecheck": "tsc -p tsconfig.json"
   },
   "dependencies": {
